@@ -1,7 +1,7 @@
 #Part 1: Unit Testing and TDD
 ##Requirements
 ### Part A: Getting the right derivative
-		Firstly, We need write our unit tests inside `UnitTestsEx.java` to test `derivative()`, which takes an algebraic term, calculates its derivative, and then returns that expression as a String. `derivative()` is in ExampleClass.java.
+Firstly, We need write our unit tests inside `UnitTestsEx.java` to test `derivative()`, which takes an algebraic term, calculates its derivative, and then returns that expression as a String. `derivative()` is in ExampleClass.java.
 		Next, we should comment out the first `derivative()`, and then rename `derivative2()` into `derivative()`, and fix the bug.
 ### Part B: Testing the Word Cloud
 		There are a set of methods in `WordCloud.java`, we should write well-documented unit tests for the WordCloud methods in the provided file called `WordCloudTester.java`.
